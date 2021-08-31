@@ -1,2 +1,2 @@
 # Praveenbalaji Rajendrans Master Thesis
-## Application of speckle intensity correlation for blood flow imaging
+## Invesitgations on quantitative phase imaging in biomedical imaging
