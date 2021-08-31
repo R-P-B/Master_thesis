@@ -1,2 +1,2 @@
 # Praveenbalaji Rajendrans Master Thesis
-## Invesitgations on quantitative phase imaging in biomedical imaging
+## Invesitgations on quantitative phase imaging in bilogical samples
